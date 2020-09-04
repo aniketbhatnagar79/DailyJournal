@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DailyJournal</string>
+    <string name="go_journal">Go Journal</string>
+    <string name="what_do_you_wanna_write_today">What do you wanna write today?</string>
+    <string name="get_started">GET STARTED</string>
+    <string name="email_Text">Email</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="or">Or</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="username">Username</string>
+    <string name="saveButton">Save</string>
+    <string name="signout">Signout</string>
+    <string name="add_thoughts">Add Thoughts</string>
+    <string name="write_a_journal_entry_by_clicking_the_icon">Write a Journal Entry by Clicking the + icon</string>
+</resources>

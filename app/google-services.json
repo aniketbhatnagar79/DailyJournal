@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "510460739210",
+    "firebase_url": "https://dailyjournal-2a173.firebaseio.com",
+    "project_id": "dailyjournal-2a173",
+    "storage_bucket": "dailyjournal-2a173.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510460739210:android:994814e35772e110777773",
+        "android_client_info": {
+          "package_name": "com.example.dailyjournal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510460739210-t8p3pobh0a6ha67iqekf60qm78fjdmpi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuQXx3aIXElJWA_ZDDdniMAT_aj49i0fs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510460739210-t8p3pobh0a6ha67iqekf60qm78fjdmpi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
